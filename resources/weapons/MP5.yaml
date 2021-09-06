@@ -2,14 +2,14 @@ Accuracy: 15
 Capacity: 26
 Damage: 15
 Description: ''
+Destruction: 5
 ID: 8
-Kill Reward: 75
 Name: MP5
 Operation: Auto
 Price: 600
 ROF: 667
-Reload time: 1.0
-Terrain Damage: 5
+Reload: 1.5
+Reward: 75
 Type: Automatic Rifle
 Velocity: 40
-Weight: 100
+Weight: 1

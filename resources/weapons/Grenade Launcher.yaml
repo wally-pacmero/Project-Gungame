@@ -1,15 +1,15 @@
 Accuracy: 3
 Capacity: 5
 Damage: 50+50 AoE
-Description: '*AoE = Area of Effect'
+Description: ''
+Destruction: 0
 ID: 18
-Kill Reward: 75
 Name: Grenade Launcher
 Operation: Auto
 Price: 1500
 ROF: 75
-Reload time: 3.0
-Terrain Damage: 0
-Type: Special
+Reload: 3.0
+Reward: 75
+Type: Grenade
 Velocity: 17
-Weight: 205
+Weight: 2.05

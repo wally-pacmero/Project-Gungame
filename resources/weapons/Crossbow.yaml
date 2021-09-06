@@ -2,14 +2,14 @@ Accuracy: 1
 Capacity: 1
 Damage: 60
 Description: ''
+Destruction: 10
 ID: 6
-Kill Reward: 300
 Name: Crossbow
 Operation: Semi
 Price: 500
 ROF: 120
-Reload time: 1.0
-Terrain Damage: 10
-Type: Special
+Reload: 1.2
+Reward: 300
+Type: Rocket
 Velocity: 20
-Weight: 60
+Weight: 0.6

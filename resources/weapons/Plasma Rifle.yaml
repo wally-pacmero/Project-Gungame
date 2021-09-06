@@ -2,14 +2,14 @@ Accuracy: 3
 Capacity: 20
 Damage: 35
 Description: ''
+Destruction: 7
 ID: 14
-Kill Reward: 75
 Name: Plasma Rifle
 Operation: Auto
 Price: 1000
 ROF: 462
-Reload time: 1.0
-Terrain Damage: 7
+Reload: 1.5
+Reward: 75
 Type: Automatic Rifle
 Velocity: 16
-Weight: 205
+Weight: 2.05

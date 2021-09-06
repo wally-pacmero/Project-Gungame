@@ -2,14 +2,14 @@ Accuracy: 0
 Capacity: 50
 Damage: 10
 Description: ''
+Destruction: 0
 ID: 17
-Kill Reward: 50
 Name: Lightning Gun
 Operation: Auto
 Price: 1500
 ROF: 1000
-Reload time: 2.0
-Terrain Damage: 0
+Reload: 2.0
+Reward: 50
 Type: Beam
-Velocity: aaa
-Weight: 100
+Velocity: Infinity
+Weight: 1
