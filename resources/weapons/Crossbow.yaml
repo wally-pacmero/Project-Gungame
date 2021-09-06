@@ -1,0 +1,15 @@
+Accuracy: 1
+Capacity: 1
+Damage: 60
+Description: ''
+ID: 6
+Kill Reward: 300
+Name: Crossbow
+Operation: Semi
+Price: 500
+ROF: 120
+Reload time: 1.0
+Terrain Damage: 10
+Type: Special
+Velocity: 20
+Weight: 60

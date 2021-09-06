@@ -1,0 +1,15 @@
+Accuracy: 5
+Capacity: 3
+Damage: 30+75 AoE
+Description: '*AoE = Area of Effect'
+ID: 15
+Kill Reward: 200
+Name: Bottle Rockets
+Operation: Auto
+Price: 1000
+ROF: 60
+Reload time: 2.0
+Terrain Damage: 12
+Type: Special
+Velocity: 5
+Weight: 80

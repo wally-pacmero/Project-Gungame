@@ -1,0 +1,15 @@
+Accuracy: 2
+Capacity: 30
+Damage: 15
+Description: ''
+ID: 20
+Kill Reward: 50
+Name: AK47
+Operation: Auto
+Price: 2500
+ROF: 706
+Reload time: 2.0
+Terrain Damage: 7
+Type: Automatic Rifle
+Velocity: 45
+Weight: 240

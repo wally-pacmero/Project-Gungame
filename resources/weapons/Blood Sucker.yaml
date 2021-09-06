@@ -1,0 +1,15 @@
+Accuracy: 6
+Capacity: 30
+Damage: 15
+Description: Heals the wielder for 1hp per hit
+ID: 12
+Kill Reward: 125
+Name: Blood Sucker
+Operation: Auto
+Price: 900
+ROF: 462
+Reload time: 1.0
+Terrain Damage: 3
+Type: Automatic Rifle
+Velocity: 30
+Weight: 90

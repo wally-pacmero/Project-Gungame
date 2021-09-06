@@ -1,0 +1,15 @@
+Accuracy: 4
+Capacity: 5
+Damage: 12
+Description: ''
+ID: 11
+Kill Reward: 100
+Name: Flak Cannon
+Operation: Semi
+Price: 800
+ROF: 120
+Reload time: 1.0
+Terrain Damage: 0
+Type: Shotgun
+Velocity: 25
+Weight: 135

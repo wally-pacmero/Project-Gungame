@@ -1,0 +1,15 @@
+Accuracy: 2
+Capacity: 3
+Damage: 100+100 AoE
+Description: '*AoE = Area of Effect'
+ID: 19
+Kill Reward: 50
+Name: Rocket Launcher
+Operation: Auto
+Price: 2000
+ROF: 60
+Reload time: 2.0
+Terrain Damage: 25
+Type: Special
+Velocity: 10
+Weight: 254

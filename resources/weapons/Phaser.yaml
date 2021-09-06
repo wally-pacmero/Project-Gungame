@@ -1,0 +1,15 @@
+Accuracy: 0
+Capacity: 30
+Damage: 10
+Description: ''
+ID: 9
+Kill Reward: 125
+Name: Phaser
+Operation: Auto
+Price: 700
+ROF: 1000
+Reload time: 1.0
+Terrain Damage: 3
+Type: Beam
+Velocity: aaa
+Weight: 80
