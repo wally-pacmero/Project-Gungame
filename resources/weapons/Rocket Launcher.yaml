@@ -1,0 +1,15 @@
+Accuracy: 2
+Capacity: 3
+Damage: 100+100 AoE
+Description: ''
+Destruction: 25
+ID: 19
+Name: Rocket Launcher
+Operation: Auto
+Price: 2000
+ROF: 60
+Reload: 2
+Reward: 50
+Type: Rocket
+Velocity: 10
+Weight: 2.54

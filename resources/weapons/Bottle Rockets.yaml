@@ -1,0 +1,15 @@
+Accuracy: 5
+Capacity: 3
+Damage: 30+75 AoE
+Description: ''
+Destruction: 12
+ID: 15
+Name: Bottle Rockets
+Operation: Auto
+Price: 1000
+ROF: 60
+Reload: 2.0
+Reward: 200
+Type: Rocket
+Velocity: 4.5
+Weight: 0.8
