@@ -11,5 +11,6 @@ ROF: 60
 Reload: 2.0
 Reward: 200
 Type: Rocket
+Projectile: Bottle Rocket
 Velocity: 4.5
 Weight: 0.8
