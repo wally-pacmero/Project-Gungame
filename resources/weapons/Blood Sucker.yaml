@@ -11,5 +11,6 @@ ROF: 462
 Reload: 1.5
 Reward: 125
 Type: Automatic Rifle
+Projectile: Vampire Bullet
 Velocity: 30
 Weight: 0.9

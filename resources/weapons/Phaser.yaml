@@ -11,5 +11,6 @@ ROF: 1000
 Reload: 1.3
 Reward: 125
 Type: Beam
+Projectile: Phaser
 Velocity: .inf
 Weight: 0.8
