@@ -1,0 +1,29 @@
+---
+# Do we need an ID system for blocks?
+# ...actually on second thought yes. I was thinking about implementing an
+# overcomplicated per-map-basis dictionary for the index of blocks for compression
+#
+# Probably best to write a simple saving algorithm and then use external tools to
+# compress properly. We can work on our own map compression optimised for PGG later.
+
+- air
+# In order of the original tile selection menu.
+
+- dirt
+- dirt blue
+- dirt red
+- crate
+- booster up
+- booster left
+- booster right
+- dirt reinforced
+
+- tree large
+- tree
+- bush
+- grass
+- mushroom large
+- mushroom
+- flower
+- ladder
+# todo
