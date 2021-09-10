@@ -11,5 +11,6 @@ ROF: 120
 Reload: 1.2
 Reward: 300
 Type: Rocket
+Projectile: Arrow
 Velocity: 20
 Weight: 0.6

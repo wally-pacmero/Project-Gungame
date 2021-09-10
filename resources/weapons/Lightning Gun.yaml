@@ -11,5 +11,6 @@ ROF: 1000
 Reload: 2.0
 Reward: 50
 Type: Beam
+Projectile: Lightning
 Velocity: Infinity
 Weight: 1
