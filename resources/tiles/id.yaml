@@ -6,24 +6,58 @@
 # Probably best to write a simple saving algorithm and then use external tools to
 # compress properly. We can work on our own map compression optimised for PGG later.
 
-- air
+Misc:
+  dir: "."
+  list:
+    - air
+
 # In order of the original tile selection menu.
 
-- dirt
-- dirt blue
-- dirt red
-- crate
-- booster up
-- booster left
-- booster right
-- dirt reinforced
+Physical Blocks:
+  dir: "."
+  list:
+    - dirt
+    - dirt blue
+    - dirt red
+    - crate
+    - booster up
+    - booster left
+    - booster right
+    - dirt reinforced
 
-- tree large
-- tree
-- bush
-- grass
-- mushroom large
-- mushroom
-- flower
-- ladder
-# todo
+Scenery:
+  dir: "decoration"
+  list:
+    - tree large
+    - tree
+    - bush
+    - grass
+    - mushroom large
+    - mushroom
+    - flower
+    - ladder
+    - fence left
+    - fence mid
+    - fence right
+    - sign
+    - grass large
+    - chair left
+    - chair right
+    - table left
+    - table mid
+    - table right
+    # todo
+
+Objectives:
+  dir: "."
+  list:
+    - respawn neutral
+    - respawn blue
+    - respawn red
+    - flag blue
+    - flag red
+
+Fluids:
+  dir: "."
+  list:
+    - water
