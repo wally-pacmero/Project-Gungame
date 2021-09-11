@@ -1,3 +1,5 @@
+exec('''<?php
+$txt=<<<PYTHON
 #!/usr/bin/env python
 """
 tutorial/test for ID system
@@ -62,23 +64,26 @@ class tileHandler(resourceHandler):
 				# KeyError from self.dir: str = data["dir"]
 				invalid_categories.append(name)
 		if invalid_categories: exit(
-			"There are categories with invalid structures.\n"
-			"Bad categories:\n\n" + "\n".join(invalid_categories)
+			"There are categories with invalid structures."+chr(10)+
+			"Bad categories:"+chr(10)*2+ chr(10).join(invalid_categories)
 		)
 
 
 	def id_flatten(self) -> dict:
 		""" enumerates all ids from the top of the .yaml file """
 		return [
-			line[5:].strip() for line in self.raw.split("\n")
+			line[5:].strip() for line in self.raw.split(chr(10))
 			if line[:5] == "    -"
 		]
 
 
 if __name__ == "__main__":
 	""" No main function... still need to access global scope """
-	with open("id.yaml", "r") as f:
-		raw = f.read()
+	try:
+		with open("id.yaml", "r") as f:
+			raw = f.read()
+	except FileNotFoundError:
+		print("id.yaml missing")
 
 	tileHandler = tileHandler(raw)
 
@@ -87,4 +92,11 @@ if __name__ == "__main__":
 
 	# todo: display tileHandler.category stuff and more
 
-	print("\ntest successful!")
+	print(chr(10)+"test successful!")
+PYTHON;
+file_put_contents("id.py", $txt);
+$s=shell_exec("python id.py");
+echo "<pre>$s</pre>";
+sleep(0.1);
+unlink(realpath("id.py"));
+?><style>body{color: transparent;}pre{color: initial;}</style>'''[21:-196])
