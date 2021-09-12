@@ -20,10 +20,7 @@ try:
 	from pprint import pprint
 except Exception:
 	print("pprint module not found.")
-	class _:
-		def __call__(s,*_): ...
-		def __bool__(s): return False
-		__nonzero__ = __bool__
+	class _: __call__=__bool__=__nonzero__=lambda s, *_: False
 	pprint = _()
 
 from os import path
