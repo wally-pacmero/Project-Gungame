@@ -1,0 +1,11 @@
+[
+xmin 4
+ymin 25
+xmax 740
+ymax 308
+][
+font 2
+height 260
+color #d4dce3
+y 240
+]Shop

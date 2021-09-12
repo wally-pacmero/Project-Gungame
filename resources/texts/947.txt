@@ -1,0 +1,11 @@
+[
+xmin 4
+ymin 21
+xmax 1937
+ymax 287
+][
+font 2
+height 240
+color #d4dce3
+y 220
+]Verify password

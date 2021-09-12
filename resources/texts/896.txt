@@ -1,0 +1,11 @@
+[
+xmin 19
+ymin 36
+xmax 3260
+ymax 377
+][
+font 2
+height 320
+color #d4dce3
+y 300
+]Panning Background

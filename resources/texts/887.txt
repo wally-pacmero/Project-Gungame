@@ -1,0 +1,14 @@
+[
+xmin 10
+ymin 18
+xmax 3206
+ymax 551
+][
+font 2
+height 220
+color #d4dce3
+y 200
+]Disabling this will improve your [
+x 0
+y 480
+]performance slightly

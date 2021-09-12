@@ -1,0 +1,20 @@
+[
+xmin -40
+ymin -40
+xmax 956
+ymax 263
+wordwrap 1
+multiline 1
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 2
+height 200
+color #ffffa12a
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="center"><font face="Nevis" size="10" color="#ffa12a" letterSpacing="0.500000" kerning="0"><b>W</b></font></p>

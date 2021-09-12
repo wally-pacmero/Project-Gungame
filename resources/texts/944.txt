@@ -1,0 +1,11 @@
+[
+xmin 14
+ymin 21
+xmax 1980
+ymax 238
+][
+font 2
+height 240
+color #d4dce3
+y 220
+]Pick a username
