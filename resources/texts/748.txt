@@ -1,0 +1,18 @@
+[
+xmin -40
+ymin -40
+xmax 647
+ymax 286
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 2
+height 220
+color #ffffb74a
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="left"><font face="Nevis" size="11" color="#ffb74a" letterSpacing="0.000000" kerning="1"><b>5000</b></font></p>

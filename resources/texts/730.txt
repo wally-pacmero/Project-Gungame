@@ -1,0 +1,12 @@
+[
+xmin 713
+ymin 36
+xmax 3450
+ymax 377
+][
+font 2
+height 320
+color #49697c
+x 700
+y 300
+]Creating game... 

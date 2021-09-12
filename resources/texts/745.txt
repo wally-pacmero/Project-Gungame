@@ -1,0 +1,12 @@
+[
+xmin 239
+ymin -2
+xmax 1298
+ymax 219
+][
+font 2
+height 220
+color #ffffff
+x 240
+y 200
+]Standard

@@ -1,0 +1,18 @@
+[
+xmin -40
+ymin -40
+xmax 3629
+ymax 286
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 2
+height 220
+color #ffffffff
+align justify
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="justify"><font face="Nevis" size="11" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>SWAT Team</b></font></p>

@@ -1,0 +1,18 @@
+[
+xmin -40
+ymin -40
+xmax 920
+ymax 286
+wordwrap 1
+multiline 1
+readonly 1
+useoutlines 1
+font 2
+height 220
+color #ffffffff
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]Owned!
