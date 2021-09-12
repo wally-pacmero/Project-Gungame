@@ -1,0 +1,17 @@
+[
+xmin -40
+ymin -40
+xmax 4000
+ymax 376
+password 1
+useoutlines 1
+font 1181
+height 300
+color #ffffffff
+maxlength 35
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]

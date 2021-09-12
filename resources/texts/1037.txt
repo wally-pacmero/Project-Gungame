@@ -1,0 +1,12 @@
+[
+xmin 2553
+ymin 37
+xmax 3453
+ymax 296
+translatex 2529
+][
+font 671
+height 300
+color #ffffff
+y 280
+]Head

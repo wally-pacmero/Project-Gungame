@@ -1,0 +1,20 @@
+[
+xmin 80
+ymin 40
+xmax 1220
+ymax 1520
+][
+font 977
+height 240
+letterspacing 5
+color #ffffff
+x 260
+y 220
+]Colour[
+x 180
+y 820
+]Intensity[
+letterspacing 2
+x 60
+y 1440
+]Brightness

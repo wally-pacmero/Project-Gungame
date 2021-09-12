@@ -1,0 +1,11 @@
+[
+xmin 15
+ymin 87
+xmax 3324
+ymax 584
+][
+font 2
+height 620
+color #e7edf3
+y 560
+]Join Game

@@ -1,0 +1,12 @@
+[
+xmin 1340
+ymin 66
+xmax 6446
+ymax 461
+translatex 1317
+][
+font 671
+height 480
+color #ffffff
+y 440
+]Customise Character

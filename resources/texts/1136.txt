@@ -1,0 +1,12 @@
+[
+xmin 1339
+ymin 37
+xmax 2770
+ymax 296
+translatex 1317
+][
+font 671
+height 300
+color #ffffff
+y 280
+]Hide Full

@@ -1,0 +1,12 @@
+[
+xmin 600
+ymin 40
+xmax 9240
+ymax 420
+][
+font 1040
+height 360
+color #ffffff
+x 580
+y 320
+]This feature only available on the official devs website:

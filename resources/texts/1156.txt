@@ -1,0 +1,12 @@
+[
+xmin 540
+ymin 39
+xmax 1396
+ymax 399
+][
+font 2
+height 340
+color #e7edf3
+x 520
+y 300
+]Ping

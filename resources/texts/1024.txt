@@ -1,0 +1,12 @@
+[
+xmin 1318
+ymin 41
+xmax 2938
+ymax 373
+translatex 1317
+][
+font 671
+height 320
+color #ffffff
+y 300
+]Weapons

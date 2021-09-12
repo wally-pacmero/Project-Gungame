@@ -1,0 +1,12 @@
+[
+xmin 147
+ymin 39
+xmax 1789
+ymax 330
+][
+font 2
+height 340
+color #e7edf3
+x 120
+y 300
+]Password

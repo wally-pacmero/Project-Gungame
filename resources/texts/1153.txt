@@ -1,0 +1,12 @@
+[
+xmin 562
+ymin 39
+xmax 1373
+ymax 328
+][
+font 2
+height 340
+color #e7edf3
+x 540
+y 300
+]PvP

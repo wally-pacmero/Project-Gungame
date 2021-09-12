@@ -1,0 +1,12 @@
+[
+xmin 2344
+ymin 34
+xmax 3651
+ymax 296
+translatex 2330
+][
+font 671
+height 300
+color #ffffff
+y 280
+]Colours

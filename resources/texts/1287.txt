@@ -1,0 +1,12 @@
+[
+xmin 204
+ymin -6
+xmax 1512
+ymax 201
+][
+font 2
+height 200
+color #ffffff
+x 200
+y 180
+]STOCKPILE

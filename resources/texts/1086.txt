@@ -1,0 +1,12 @@
+[
+xmin 1323
+ymin 41
+xmax 2175
+ymax 314
+translatex 1317
+][
+font 671
+height 320
+color #ffffff
+y 300
+]Join

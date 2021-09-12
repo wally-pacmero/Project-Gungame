@@ -1,0 +1,17 @@
+[
+xmin -40
+ymin -40
+xmax 6305
+ymax 308
+readonly 1
+noselect 1
+useoutlines 1
+font 2
+height 240
+color #ffd4dce3
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]Creating connection to host

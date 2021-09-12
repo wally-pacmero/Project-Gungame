@@ -1,0 +1,12 @@
+[
+xmin 318
+ymin 21
+xmax 5210
+ymax 287
+][
+font 2
+height 240
+color #e7edf3
+x 320
+y 220
+]Click a column title to sort by that column

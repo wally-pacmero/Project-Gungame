@@ -1,0 +1,12 @@
+[
+xmin 23
+ymin 11
+xmax 2144
+ymax 220
+][
+font 2
+height 180
+color #ffffff
+x 20
+y 160
+]click to add to stockpile

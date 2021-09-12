@@ -1,0 +1,12 @@
+[
+xmin 153
+ymin 39
+xmax 1482
+ymax 399
+][
+font 2
+height 340
+color #e7edf3
+x 140
+y 300
+]Players

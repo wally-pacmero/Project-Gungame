@@ -1,0 +1,12 @@
+[
+xmin 1207
+ymin 45
+xmax 3341
+ymax 400
+translatex 1183
+][
+font 671
+height 340
+color #ffffff
+y 300
+]Max players
