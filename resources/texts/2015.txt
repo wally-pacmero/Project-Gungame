@@ -1,0 +1,12 @@
+[
+xmin 774
+ymin 46
+xmax 2041
+ymax 364
+][
+font 2
+height 380
+color #ffffff
+x 760
+y 340
+]Leave

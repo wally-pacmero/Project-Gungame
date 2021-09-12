@@ -1,0 +1,16 @@
+[
+xmin -40
+ymin -40
+xmax 2330
+ymax 307
+useoutlines 1
+font 977
+height 240
+color #ffffffff
+maxlength 16
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]Bob

@@ -1,0 +1,12 @@
+[
+xmin 447
+ymin 16
+xmax 1878
+ymax 312
+][
+font 2
+height 320
+color #ffffff
+x 420
+y 300
+]Rotation

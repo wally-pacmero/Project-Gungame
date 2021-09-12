@@ -1,0 +1,15 @@
+[
+xmin 646
+ymin 14
+xmax 8389
+ymax 638
+][
+font 2
+height 260
+color #ffffff
+x 640
+y 240
+]Describe your clan, what you\'re about, and what you stand for.[
+x 1880
+y 560
+]This is public and visible to non-members.

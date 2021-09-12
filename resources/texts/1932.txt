@@ -1,0 +1,12 @@
+[
+xmin 126
+ymin 16
+xmax 548
+ymax 310
+][
+font 2
+height 320
+color #ffffff
+x 120
+y 300
+]Y

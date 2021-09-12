@@ -1,0 +1,12 @@
+[
+xmin 260
+ymin 40
+xmax 600
+ymax 260
+][
+font 977
+height 240
+color #ffffff
+x 240
+y 220
+]Set

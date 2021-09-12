@@ -1,0 +1,18 @@
+[
+xmin -40
+ymin -40
+xmax 6838
+ymax 553
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 1575
+height 460
+color #ffffffff
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="center"><font face="Arial_23pt_st" size="23" color="#ffffff" letterSpacing="0.000000" kerning="0">Game starting...</font></p>

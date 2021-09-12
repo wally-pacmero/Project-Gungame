@@ -1,0 +1,13 @@
+[
+xmin 140
+ymin 40
+xmax 3320
+ymax 280
+][
+font 673
+height 260
+letterspacing 1
+color #ffffff
+x 140
+y 240
+]The host has disconnected!
