@@ -1,0 +1,12 @@
+[
+xmin 7
+ymin 37
+xmax 1105
+ymax 296
+][
+font 1
+height 300
+letterspacing 6
+color #ffffff
+y 280
+]Teams

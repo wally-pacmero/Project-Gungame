@@ -1,0 +1,12 @@
+[
+xmin 1202
+ymin 29
+xmax 2200
+ymax 258
+translatex 1183
+][
+font 671
+height 260
+color #ffffff
+y 240
+]Names

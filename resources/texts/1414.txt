@@ -1,0 +1,11 @@
+[
+xmin 23
+ymin 37
+xmax 788
+ymax 292
+][
+font 1
+height 300
+color #ffffff
+y 280
+]PVP

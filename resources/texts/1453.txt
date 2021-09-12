@@ -1,0 +1,12 @@
+[
+xmin 1194
+ymin 34
+xmax 2472
+ymax 296
+translatex 1183
+][
+font 671
+height 300
+color #ffffff
+y 280
+]Search:

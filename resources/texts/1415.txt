@@ -1,0 +1,11 @@
+[
+xmin 24
+ymin 37
+xmax 705
+ymax 296
+][
+font 1
+height 300
+color #ffffff
+y 280
+]Edit

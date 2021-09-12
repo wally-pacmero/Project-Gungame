@@ -1,0 +1,18 @@
+[
+xmin -40
+ymin -40
+xmax 2160
+ymax 308
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 2
+height 240
+color #ffe7edf3
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="left"><font face="Nevis" size="12" color="#e7edf3" letterSpacing="0.000000" kerning="1"><b>6th</b></font></p>

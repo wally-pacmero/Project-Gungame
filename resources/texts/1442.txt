@@ -1,0 +1,17 @@
+[
+xmin 1277
+ymin -40
+xmax 8429
+ymax 577
+readonly 1
+noselect 1
+useoutlines 1
+font 671
+height 480
+color #ffffffff
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]Load Level

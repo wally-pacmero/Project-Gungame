@@ -1,0 +1,13 @@
+[
+xmin 1368
+ymin 41
+xmax 2969
+ymax 377
+translatex 1317
+][
+font 671
+height 320
+color #ffffff
+x 20
+y 300
+]My levels

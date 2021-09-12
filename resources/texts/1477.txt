@@ -1,0 +1,11 @@
+[
+xmin 4
+ymin 5
+xmax 1136
+ymax 309
+][
+font 2
+height 260
+color #e1e1e1
+y 240
+]Scenery

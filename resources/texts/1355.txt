@@ -1,0 +1,12 @@
+[
+xmin 200
+ymin 36
+xmax 1986
+ymax 310
+][
+font 2
+height 320
+color #e7edf3
+x 180
+y 300
+]Main Menu

@@ -1,0 +1,17 @@
+[
+xmin -40
+ymin -40
+xmax 4482
+ymax 352
+html 1
+useoutlines 1
+font 2
+height 280
+color #fffb9c14
+maxlength 20
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="left"><font face="Nevis" size="14" color="#fb9c14" letterSpacing="0.000000" kerning="1"><b>Username</b></font></p>

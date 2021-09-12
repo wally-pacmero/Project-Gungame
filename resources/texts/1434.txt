@@ -1,0 +1,19 @@
+[
+xmin -40
+ymin -40
+xmax 4424
+ymax 2336
+wordwrap 1
+multiline 1
+readonly 1
+noselect 1
+useoutlines 1
+font 937
+height 220
+color #ffffffff
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]
