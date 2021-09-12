@@ -1,0 +1,18 @@
+[
+xmin 200
+ymin 25
+xmax 8824
+ymax 1575
+][
+font 2
+height 260
+color #ffffff
+x 2460
+y 240
+]You are about to leave this clan.[
+x 200
+y 560
+]Once you have left you will not be able to rejoin without a new invite.[
+x 700
+y 1220
+]To confirm, type \"leave\" into the box below and press Leave.

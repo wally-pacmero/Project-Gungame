@@ -1,0 +1,12 @@
+[
+xmin 200
+ymin 40
+xmax 2600
+ymax 420
+][
+font 1040
+height 360
+color #ffffff
+x 180
+y 320
+]Choose Spawn

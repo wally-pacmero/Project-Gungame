@@ -1,0 +1,12 @@
+[
+xmin 209
+ymin 28
+xmax 1603
+ymax 273
+][
+font 2
+height 280
+color #ffffff
+x 200
+y 260
+]XP Share

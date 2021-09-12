@@ -1,0 +1,14 @@
+[
+xmin 3
+ymin 18
+xmax 3479
+ymax 551
+][
+font 2
+height 220
+color #d4dce3
+y 200
+]Volume for the background music [
+x 0
+y 480
+](not the jukebox)

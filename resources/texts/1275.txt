@@ -1,0 +1,12 @@
+[
+xmin 378
+ymin -5
+xmax 2738
+ymax 201
+][
+font 2
+height 200
+color #ffffff
+x 360
+y 180
+]ENERGY COLLECTOR

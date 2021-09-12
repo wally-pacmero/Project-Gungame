@@ -1,0 +1,12 @@
+[
+xmin 1195
+ymin 40
+xmax 4266
+ymax 332
+translatex 1183
+][
+font 671
+height 340
+color #ffffff
+y 300
+]Save as new level

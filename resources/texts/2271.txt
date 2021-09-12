@@ -1,0 +1,27 @@
+[
+xmin 40
+ymin 40
+xmax 5220
+ymax 1600
+][
+font 673
+height 260
+letterspacing 1
+color #ffffff
+x 20
+y 240
+]Only the map creator can save the level, and [
+x 60
+y 560
+]must also be logged in. When building a new [
+letterspacing 2
+x 60
+y 900
+]map, the host is the map creator. The ability [
+letterspacing 1
+x 280
+y 1220
+]to list other players as authors is coming [
+x 2320
+y 1560
+]soon.

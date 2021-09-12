@@ -1,0 +1,11 @@
+[
+xmin 7
+ymin 36
+xmax 888
+ymax 312
+][
+font 2
+height 320
+color #d4dce3
+y 300
+]Gore

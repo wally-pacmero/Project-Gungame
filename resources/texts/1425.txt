@@ -1,0 +1,12 @@
+[
+xmin 2362
+ymin 40
+xmax 4759
+ymax 332
+translatex 2337
+][
+font 671
+height 340
+color #ffffff
+y 300
+]Default Music

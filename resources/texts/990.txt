@@ -1,0 +1,19 @@
+[
+xmin -40
+ymin -40
+xmax 6249
+ymax 465
+wordwrap 1
+multiline 1
+readonly 1
+noselect 1
+useoutlines 1
+font 2
+height 320
+color #fff4d600
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]$4120 / 24 unlock points

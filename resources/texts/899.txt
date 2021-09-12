@@ -1,0 +1,11 @@
+[
+xmin 6
+ymin 14
+xmax 1882
+ymax 303
+][
+font 2
+height 260
+color #d4dce3
+y 240
+]Crouch (soon)

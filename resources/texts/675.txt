@@ -1,0 +1,20 @@
+[
+xmin 1277
+ymin -40
+xmax 3788
+ymax 1320
+wordwrap 1
+multiline 1
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 673
+height 260
+color #ffffffff
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="left"><font face="Arial_13pt_st" size="13" color="#ffffff" letterSpacing="-0.500000" kerning="0">Accuracy: </font></p><p align="left"><font face="Arial_13pt_st" size="13" color="#ffffff" letterSpacing="-0.500000" kerning="0">Weight: 1.00 kg</font></p><p align="left"><font face="Arial_13pt_st" size="13" color="#ffffff" letterSpacing="-0.500000" kerning="0">Operation: Auto</font></p><p align="left"><font face="Arial_13pt_st" size="13" color="#ffffff" letterSpacing="-0.500000" kerning="0">Reload time: 2s</font></p>

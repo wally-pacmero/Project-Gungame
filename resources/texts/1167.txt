@@ -1,0 +1,12 @@
+[
+xmin 181
+ymin 54
+xmax 1978
+ymax 405
+translatex 149
+][
+font 671
+height 420
+color #ffffff
+y 380
+]Refresh

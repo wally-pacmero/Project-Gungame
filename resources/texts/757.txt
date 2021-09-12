@@ -1,0 +1,11 @@
+[
+xmin 24
+ymin 133
+xmax 1151
+ymax 925
+][
+font 2
+height 1000
+color #000000
+y 900
+]?

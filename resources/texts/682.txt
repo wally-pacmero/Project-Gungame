@@ -1,0 +1,20 @@
+[
+xmin 1277
+ymin -40
+xmax 6568
+ymax 1320
+wordwrap 1
+multiline 1
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 673
+height 260
+color #ffbcc1dc
+align justify
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="justify"></p>

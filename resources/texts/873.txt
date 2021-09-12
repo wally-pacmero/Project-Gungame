@@ -1,0 +1,12 @@
+[
+xmin 819
+ymin 39
+xmax 2282
+ymax 399
+][
+font 2
+height 340
+color #d4dce3
+x 820
+y 300
+]Settings

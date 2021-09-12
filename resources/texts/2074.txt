@@ -1,0 +1,11 @@
+[
+xmin 26
+ymin 56
+xmax 1912
+ymax 420
+][
+font 2
+height 440
+color #ffffff
+y 400
+]Founder

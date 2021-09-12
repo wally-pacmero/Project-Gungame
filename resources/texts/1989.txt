@@ -1,0 +1,12 @@
+[
+xmin 113
+ymin 21
+xmax 1038
+ymax 286
+][
+font 2
+height 240
+color #e2e2e2
+x 100
+y 220
+]Accept

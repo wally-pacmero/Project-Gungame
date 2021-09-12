@@ -1,0 +1,15 @@
+[
+xmin 442
+ymin 25
+xmax 8583
+ymax 639
+][
+font 2
+height 260
+color #ffffff
+x 440
+y 240
+]Choose how much of the XP you earn will be donated to the clan.[
+x 1600
+y 560
+]You\'ll always still earn the full amount of gold.

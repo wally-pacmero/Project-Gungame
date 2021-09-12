@@ -1,0 +1,11 @@
+[
+xmin 16
+ymin 25
+xmax 974
+ymax 256
+][
+font 2
+height 260
+color #d4dce3
+y 240
+]Reload

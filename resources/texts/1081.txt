@@ -1,0 +1,12 @@
+[
+xmin 1332
+ymin 37
+xmax 2514
+ymax 314
+translatex 1317
+][
+font 671
+height 320
+color #ffffff
+y 300
+]Create

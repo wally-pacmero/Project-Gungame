@@ -1,0 +1,12 @@
+[
+xmin 2061
+ymin 56
+xmax 4614
+ymax 418
+][
+font 2
+height 440
+color #ffffff
+x 2040
+y 400
+]Leave Clan

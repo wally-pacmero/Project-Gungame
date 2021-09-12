@@ -1,0 +1,20 @@
+[
+xmin -40
+ymin -40
+xmax 6838
+ymax 704
+wordwrap 1
+multiline 1
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 930
+height 280
+color #ffffffff
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="center"><font face="Arial_14pt_st" size="14" color="#ffffff" letterSpacing="0.000000" kerning="0">The game will start when there are 2 or more</font></p><p align="center"><font face="Arial_14pt_st" size="14" color="#ffffff" letterSpacing="0.000000" kerning="0">players in the room</font></p>

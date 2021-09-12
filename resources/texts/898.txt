@@ -1,0 +1,11 @@
+[
+xmin 13
+ymin 25
+xmax 490
+ymax 308
+][
+font 2
+height 260
+color #d4dce3
+y 240
+]Up

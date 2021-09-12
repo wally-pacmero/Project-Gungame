@@ -1,0 +1,11 @@
+[
+xmin 6
+ymin -6
+xmax 3568
+ymax 308
+][
+font 2
+height 260
+color #e7edf3
+y 240
+]Top Survival Scores (week)

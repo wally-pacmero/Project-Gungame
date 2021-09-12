@@ -1,0 +1,18 @@
+[
+xmin -40
+ymin -40
+xmax 8400
+ymax 621
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 2
+height 520
+color #ffffba2a
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="center"><font face="Nevis" size="26" color="#ffba2a" letterSpacing="0.000000" kerning="1"><b>You killed Blazer</b></font></p>

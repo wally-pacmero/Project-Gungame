@@ -1,0 +1,13 @@
+[
+xmin 80
+ymin 40
+xmax 360
+ymax 260
+][
+font 977
+height 240
+letterspacing -3
+color #ffffff
+x 60
+y 220
+]Ok

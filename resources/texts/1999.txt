@@ -1,0 +1,12 @@
+[
+xmin 2185
+ymin 56
+xmax 6500
+ymax 420
+][
+font 2
+height 440
+color #ffffff
+x 2180
+y 400
+]Set XP contribution

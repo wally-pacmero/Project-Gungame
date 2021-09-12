@@ -1,0 +1,11 @@
+[
+xmin 4
+ymin 25
+xmax 733
+ymax 255
+][
+font 2
+height 260
+color #d4dce3
+y 240
+]Save

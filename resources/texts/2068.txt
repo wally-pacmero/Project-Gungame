@@ -1,0 +1,14 @@
+[
+xmin 5
+ymin 1
+xmax 841
+ymax 565
+][
+font 2
+height 240
+color #cdcdcd
+y 220
+]Level:[
+x 0
+y 540
+]XP:

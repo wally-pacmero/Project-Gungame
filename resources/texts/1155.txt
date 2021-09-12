@@ -1,0 +1,12 @@
+[
+xmin 205
+ymin 39
+xmax 1731
+ymax 330
+][
+font 2
+height 340
+color #e7edf3
+x 180
+y 300
+]Location

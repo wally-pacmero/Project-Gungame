@@ -1,0 +1,12 @@
+[
+xmin 1126
+ymin -9
+xmax 1877
+ymax 220
+translatex 1115
+][
+font 2
+height 180
+color #ffffff
+y 160
+]Energy:

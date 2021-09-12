@@ -1,0 +1,13 @@
+[
+xmin -305
+ymin 22
+xmax 1051
+ymax 348
+translatex -363
+][
+font 2
+height 360
+color #e7edf3
+x 40
+y 320
+]Deaths

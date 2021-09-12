@@ -1,0 +1,12 @@
+[
+xmin 726
+ymin 36
+xmax 2790
+ymax 312
+][
+font 2
+height 320
+color #e4e4e4
+x 700
+y 300
+]Found a clan

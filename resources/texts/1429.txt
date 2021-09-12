@@ -1,0 +1,12 @@
+[
+xmin 1205
+ymin 34
+xmax 5201
+ymax 355
+translatex 1183
+][
+font 671
+height 300
+color #ffffff
+y 280
+]Public (show in level vault)

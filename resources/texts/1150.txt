@@ -1,0 +1,11 @@
+[
+xmin 20
+ymin 39
+xmax 1117
+ymax 328
+][
+font 2
+height 340
+color #e7edf3
+y 300
+]Name

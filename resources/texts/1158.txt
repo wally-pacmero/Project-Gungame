@@ -1,0 +1,11 @@
+[
+xmin 18
+ymin 32
+xmax 1363
+ymax 292
+][
+font 2
+height 300
+color #e7edf3
+y 280
+]Hide full

@@ -1,0 +1,19 @@
+[
+xmin -40
+ymin -40
+xmax 5292
+ymax 332
+multiline 1
+readonly 1
+noselect 1
+wasstatic 1
+useoutlines 1
+font 671
+height 220
+color #ffe6eff7
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]Chat

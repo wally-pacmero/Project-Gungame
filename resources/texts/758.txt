@@ -1,0 +1,11 @@
+[
+xmin 19
+ymin 16
+xmax 2285
+ymax 376
+][
+font 2
+height 320
+color #e7edf3
+y 300
+]New Weapon!

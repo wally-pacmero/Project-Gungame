@@ -1,0 +1,18 @@
+[
+xmin -40
+ymin -40
+xmax 5320
+ymax 442
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 2
+height 360
+color #ffffffff
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="left"><font face="Nevis" size="18" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>Founder</b></font></p>

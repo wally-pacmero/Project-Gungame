@@ -1,0 +1,17 @@
+[
+xmin 1277
+ymin -40
+xmax 6791
+ymax 487
+readonly 1
+noselect 1
+useoutlines 1
+font 671
+height 400
+color #ffffffff
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]Smith and Wesson

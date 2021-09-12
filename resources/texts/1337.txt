@@ -1,0 +1,12 @@
+[
+xmin 668
+ymin -2
+xmax 3920
+ymax 265
+][
+font 2
+height 220
+color #e5edf1
+x 660
+y 200
+]Players online in last 48 hours

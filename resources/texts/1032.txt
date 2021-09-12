@@ -1,0 +1,12 @@
+[
+xmin 461
+ymin 59
+xmax 1698
+ymax 405
+translatex 429
+][
+font 671
+height 420
+color #ffffff
+y 380
+]Back

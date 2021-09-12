@@ -1,0 +1,18 @@
+[
+xmin -40
+ymin -40
+xmax 4938
+ymax 352
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 930
+height 280
+color #ffffffff
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="center"><font face="Arial_14pt_st" size="14" color="#ffffff" letterSpacing="0.000000" kerning="0">Press F to mark yourself as ready</font></p>

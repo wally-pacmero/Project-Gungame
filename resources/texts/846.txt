@@ -1,0 +1,13 @@
+[
+xmin -283
+ymin 22
+xmax 846
+ymax 346
+translatex -363
+][
+font 2
+height 360
+color #e7edf3
+x 60
+y 320
+]Level

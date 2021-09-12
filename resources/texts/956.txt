@@ -1,0 +1,11 @@
+[
+xmin 14
+ymin 1
+xmax 1788
+ymax 237
+][
+font 2
+height 240
+color #d4dce3
+y 220
+]Remember me

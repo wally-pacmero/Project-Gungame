@@ -1,0 +1,11 @@
+[
+xmin 9
+ymin 21
+xmax 494
+ymax 237
+][
+font 2
+height 240
+color #e7edf3
+y 220
+]7th

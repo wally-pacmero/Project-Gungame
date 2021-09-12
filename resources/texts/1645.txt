@@ -1,0 +1,12 @@
+[
+xmin 80
+ymin 40
+xmax 2700
+ymax 420
+][
+font 1040
+height 360
+color #ffffff
+x 60
+y 320
+]Enter your name

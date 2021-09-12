@@ -1,0 +1,13 @@
+[
+xmin 820
+ymin 40
+xmax 1980
+ymax 280
+][
+font 673
+height 260
+letterspacing 2
+color #ffffff
+x 800
+y 240
+]Red Team

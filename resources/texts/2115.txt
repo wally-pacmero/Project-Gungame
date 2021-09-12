@@ -1,0 +1,11 @@
+[
+xmin 7
+ymin 36
+xmax 1697
+ymax 376
+][
+font 2
+height 320
+color #e4e4e4
+y 300
+]Top Clans

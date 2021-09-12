@@ -1,0 +1,12 @@
+[
+xmin 104
+ymin 21
+xmax 1056
+ymax 237
+][
+font 2
+height 240
+color #e2e2e2
+x 100
+y 220
+]Decline

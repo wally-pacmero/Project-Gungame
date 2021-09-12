@@ -1,0 +1,15 @@
+[
+xmin 2235
+ymin 14
+xmax 6789
+ymax 639
+][
+font 2
+height 260
+color #ffffff
+x 2860
+y 240
+]Update your clan\'s status.[
+x 2220
+y 560
+]This is visible only to clan members.

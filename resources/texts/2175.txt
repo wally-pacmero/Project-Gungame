@@ -1,0 +1,17 @@
+[
+xmin -40
+ymin -40
+xmax 4923
+ymax 291
+readonly 1
+noselect 1
+useoutlines 1
+font 671
+height 220
+color #ffdeecc8
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]Paste YouTube URL into chat to play!

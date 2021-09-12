@@ -1,0 +1,26 @@
+[
+xmin 4
+ymin -5
+xmax 4606
+ymax 1032
+][
+font 2
+height 200
+letterspacing 5
+color #ff9900
+y 180
+]Clan Enabled: [
+letterspacing 3
+color #ffffff
+]Buying the clan enabled version [
+letterspacing 1
+x 0
+y 440
+]of this item means all members of your clan will [
+letterspacing 2
+x 0
+y 700
+]be able to use it too. It still belongs to you, and [
+x 0
+y 980
+]if you leave the clan it will remain yours.

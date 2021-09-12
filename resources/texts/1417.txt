@@ -1,0 +1,15 @@
+[
+xmin 7
+ymin 37
+xmax 1323
+ymax 731
+][
+font 1
+height 300
+letterspacing 4
+color #ffffff
+y 280
+]Terrain [
+x 0
+y 640
+]Damage

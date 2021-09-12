@@ -1,0 +1,11 @@
+[
+xmin 30
+ymin 67
+xmax 4032
+ymax 708
+][
+font 2
+height 620
+color #ffffff
+y 560
+]Unlock Shop

@@ -1,0 +1,12 @@
+[
+xmin 1181
+ymin -9
+xmax 1816
+ymax 184
+translatex 1176
+][
+font 2
+height 180
+color #ffffff
+y 160
+]Gems:

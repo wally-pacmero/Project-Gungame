@@ -1,0 +1,19 @@
+[
+xmin -40
+ymin -40
+xmax 6798
+ymax 9355
+wordwrap 1
+multiline 1
+readonly 1
+html 1
+useoutlines 1
+font 2
+height 240
+color #ffffffff
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>1</b></font></p><p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>2</b></font></p><p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>3</b></font></p><p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>4</b></font></p><p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>5</b></font></p><p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>6</b></font></p><p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>7</b></font></p><p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>8</b></font></p><p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>9</b></font></p><p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>10</b></font></p><p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>11</b></font></p><p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>12</b></font></p><p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>13</b></font></p><p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>14</b></font></p><p align="left"><font face="Nevis" size="12" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>15</b></font></p>

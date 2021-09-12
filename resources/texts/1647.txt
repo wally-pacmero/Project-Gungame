@@ -1,0 +1,13 @@
+[
+xmin 120
+ymin 40
+xmax 700
+ymax 260
+][
+font 977
+height 240
+letterspacing 6
+color #ffffff
+x 100
+y 220
+]PLAY

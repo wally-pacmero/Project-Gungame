@@ -1,0 +1,12 @@
+[
+xmin 283
+ymin 16
+xmax 1358
+ymax 376
+][
+font 2
+height 320
+color #ffffff
+x 260
+y 300
+]Flip Y

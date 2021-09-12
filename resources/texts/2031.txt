@@ -1,0 +1,12 @@
+[
+xmin 170
+ymin 28
+xmax 1002
+ymax 274
+][
+font 2
+height 280
+color #ffffff
+x 160
+y 260
+]Total

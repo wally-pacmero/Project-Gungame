@@ -1,0 +1,15 @@
+[
+xmin 51
+ymin -2
+xmax 6871
+ymax 551
+][
+font 2
+height 220
+color #ffffff
+x 120
+y 200
+]You are currently playing as a guest! When you leave the game [
+x 40
+y 480
+]your progress will be lost. Click here to get an account and save!

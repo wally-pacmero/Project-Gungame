@@ -1,0 +1,11 @@
+[
+xmin 11
+ymin 63
+xmax 2977
+ymax 455
+][
+font 2
+height 480
+color #e4e4e4
+y 440
+]Clan Center

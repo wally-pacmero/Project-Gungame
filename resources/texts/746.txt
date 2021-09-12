@@ -1,0 +1,12 @@
+[
+xmin 67
+ymin -2
+xmax 1573
+ymax 219
+][
+font 2
+height 220
+color #ffb74a
+x 60
+y 200
+]Clan Enabled

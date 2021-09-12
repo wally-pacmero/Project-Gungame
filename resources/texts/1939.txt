@@ -1,0 +1,12 @@
+[
+xmin -715
+ymin 32
+xmax 3117
+ymax 486
+translatex -742
+][
+font 2
+height 420
+color #ffffff
+y 380
+]No shape selected

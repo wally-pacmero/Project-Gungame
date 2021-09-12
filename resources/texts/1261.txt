@@ -1,0 +1,12 @@
+[
+xmin 60
+ymin 120
+xmax 140
+ymax 600
+][
+font 1260
+height 620
+letterspacing -6
+color #ff0000
+y 560
+]!

@@ -1,0 +1,13 @@
+[
+xmin -262
+ymin 22
+xmax 901
+ymax 348
+translatex -363
+][
+font 2
+height 360
+color #e7edf3
+x 100
+y 320
+]Score

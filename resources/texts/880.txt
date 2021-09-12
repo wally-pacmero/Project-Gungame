@@ -1,0 +1,17 @@
+[
+xmin 5
+ymin 18
+xmax 3325
+ymax 837
+][
+font 2
+height 220
+color #d4dce3
+y 200
+]This will display your FPS at the [
+x 0
+y 480
+]bottom of the jukebox. Adjust [
+x 0
+y 780
+]settings to keep it at 35fps.

@@ -1,0 +1,20 @@
+[
+xmin 1277
+ymin -40
+xmax 4208
+ymax 1650
+wordwrap 1
+multiline 1
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 673
+height 260
+color #ffffffff
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="left"><font face="Arial_13pt_st" size="13" color="#ffffff" letterSpacing="-0.500000" kerning="0">Damage: 10</font></p><p align="left"><font face="Arial_13pt_st" size="13" color="#ffffff" letterSpacing="-0.500000" kerning="0">Rate of fire: 1000rpm</font></p><p align="left"><font face="Arial_13pt_st" size="13" color="#ffffff" letterSpacing="-0.500000" kerning="0">Mag size: 50</font></p><p align="left"><font face="Arial_13pt_st" size="13" color="#ffffff" letterSpacing="-0.500000" kerning="0">Velocity: Infinity m/s</font></p><p align="left"><font face="Arial_13pt_st" size="13" color="#ffffff" letterSpacing="-0.500000" kerning="0">Terrain Damage: 0</font></p>

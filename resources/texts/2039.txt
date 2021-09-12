@@ -1,0 +1,12 @@
+[
+xmin 297
+ymin 45
+xmax 2501
+ymax 364
+][
+font 2
+height 380
+color #ffffff
+x 300
+y 340
+]Send Invite

@@ -1,0 +1,11 @@
+[
+xmin 18
+ymin 32
+xmax 1897
+ymax 354
+][
+font 2
+height 300
+color #e7edf3
+y 280
+]Hide private

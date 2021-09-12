@@ -1,0 +1,12 @@
+[
+xmin 1342
+ymin 45
+xmax 2324
+ymax 332
+translatex 1317
+][
+font 671
+height 340
+color #ffffff
+y 300
+]Pass

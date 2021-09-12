@@ -1,0 +1,12 @@
+[
+xmin 1391
+ymin 25
+xmax 9450
+ymax 310
+][
+font 2
+height 260
+color #c4c6c8
+x 1380
+y 240
+]Accepting an application will send a join invitation to that player.

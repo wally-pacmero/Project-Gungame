@@ -1,0 +1,13 @@
+[
+xmin 1189
+ymin 37
+xmax 3535
+ymax 351
+translatex 1183
+][
+font 671
+height 300
+letterspacing 1
+color #ffffff
+y 280
+]Top this month

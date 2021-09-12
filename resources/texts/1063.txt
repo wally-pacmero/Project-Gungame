@@ -1,0 +1,13 @@
+[
+xmin 1680
+ymin 140
+xmax 8100
+ymax 860
+][
+font 1062
+height 740
+letterspacing 2
+color #ffffff
+x 1680
+y 680
+]www.multiplayer.gg

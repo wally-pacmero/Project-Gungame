@@ -1,0 +1,11 @@
+[
+xmin 11
+ymin 63
+xmax 2967
+ymax 455
+][
+font 2
+height 480
+color #ffffff
+y 440
+]Create Clan

@@ -1,0 +1,13 @@
+[
+xmin 2487
+ymin 29
+xmax 3038
+ymax 276
+translatex 2337
+][
+font 671
+height 280
+color #ffffff
+x 140
+y 260
+]Go
