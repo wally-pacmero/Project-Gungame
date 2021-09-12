@@ -1,0 +1,13 @@
+[
+xmin 780
+ymin 40
+xmax 2000
+ymax 280
+][
+font 673
+height 260
+letterspacing 3
+color #ffffff
+x 760
+y 240
+]Blue Team

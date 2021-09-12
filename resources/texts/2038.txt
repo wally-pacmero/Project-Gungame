@@ -1,0 +1,18 @@
+[
+xmin -40
+ymin -40
+xmax 8630
+ymax 330
+readonly 1
+noselect 1
+html 1
+useoutlines 1
+font 2
+height 260
+color #ffffffff
+align center
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="center"><font face="Nevis" size="13" color="#ffffff" letterSpacing="0.000000" kerning="1"><b>Enter a players name here to invite them to join your clan.</b></font></p>

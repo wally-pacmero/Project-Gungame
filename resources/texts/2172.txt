@@ -1,0 +1,19 @@
+[
+xmin -40
+ymin -40
+xmax 8460
+ymax 1200
+wordwrap 1
+multiline 1
+readonly 1
+html 1
+useoutlines 1
+font 671
+height 220
+color #ffc1d9ec
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]<p align="left"></p><p align="left"></p><p align="left"></p><p align="left"><font face="Arial" size="11" color="#c1d9ec" letterSpacing="0.000000" kerning="0"><b>*type /help for a list of commands</b></font></p>

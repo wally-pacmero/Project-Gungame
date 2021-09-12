@@ -1,0 +1,12 @@
+[
+xmin 245
+ymin 16
+xmax 3809
+ymax 376
+][
+font 2
+height 320
+color #d4dce3
+x 240
+y 300
+]Choose spawn position

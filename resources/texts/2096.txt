@@ -1,0 +1,11 @@
+[
+xmin 29
+ymin 63
+xmax 3366
+ymax 457
+][
+font 2
+height 480
+color #e4e4e4
+y 440
+]Found A Clan

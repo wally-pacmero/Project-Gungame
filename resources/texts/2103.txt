@@ -1,0 +1,11 @@
+[
+xmin 14
+ymin 21
+xmax 1964
+ymax 237
+][
+font 2
+height 240
+color #ffffff
+y 220
+]Enter clan name

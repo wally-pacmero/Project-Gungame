@@ -1,0 +1,12 @@
+[
+xmin 715
+ymin 19
+xmax 3181
+ymax 398
+][
+font 2
+height 340
+color #e7edf3
+x 700
+y 300
+]Request Invite

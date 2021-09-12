@@ -1,0 +1,12 @@
+[
+xmin 1909
+ymin 56
+xmax 4766
+ymax 420
+][
+font 2
+height 440
+color #ffffff
+x 1880
+y 400
+]Invite to Join

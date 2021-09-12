@@ -1,0 +1,11 @@
+[
+xmin 19
+ymin 36
+xmax 1416
+ymax 377
+][
+font 2
+height 320
+color #e4e4e4
+y 300
+]My Clan

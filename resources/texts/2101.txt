@@ -1,0 +1,59 @@
+[
+xmin 0
+ymin 21
+xmax 3407
+ymax 6397
+][
+font 2
+height 240
+color #ffffff
+y 220
+]Founding a clan[
+x 0
+y 840
+]It is a great honor to create a [
+x 0
+y 1140
+]clan. You will be responsible [
+x 0
+y 1440
+]for all of your members and [
+x 0
+y 1760
+]their time in your clan.[
+x 0
+y 2380
+]You can promote members to [
+x 0
+y 2680
+]High Command status, which [
+x 0
+y 2980
+]gives them the ability to make [
+x 0
+y 3300
+]changes to the clan and [
+x 0
+y 3600
+]accept new members or kick [
+x 0
+y 3920
+]other members who are [
+x 0
+y 4220
+]beneath them.[
+x 0
+y 4840
+]To proceed, enter your [
+x 0
+y 5140
+]desired Clan Name, Clan Tag, [
+x 0
+y 5460
+]and your logo.[
+x 0
+y 6060
+]Creating a clan costs[
+x 0
+y 6380
+]      1000

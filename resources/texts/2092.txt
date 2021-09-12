@@ -1,0 +1,12 @@
+[
+xmin 176
+ymin 5
+xmax 6644
+ymax 310
+][
+font 2
+height 260
+color #ffffff
+x 180
+y 240
+]Write a few words about why you would like to join:

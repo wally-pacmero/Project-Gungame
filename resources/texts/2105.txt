@@ -1,0 +1,23 @@
+[
+xmin 3
+ymin 21
+xmax 3134
+ymax 1826
+][
+font 2
+height 240
+color #ffffff
+y 220
+]Create an emblem to [
+x 0
+y 520
+]represent your clan.[
+x 0
+y 1140
+]More layers will become [
+x 0
+y 1440
+]available as your clan levels [
+x 0
+y 1760
+]up.

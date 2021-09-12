@@ -1,0 +1,16 @@
+[
+xmin -40
+ymin -40
+xmax 8719
+ymax 314
+useoutlines 1
+font 671
+height 240
+color #ffcdcdcd
+maxlength 300
+align left
+leftmargin 0
+rightmargin 0
+indent 0
+leading 40
+]

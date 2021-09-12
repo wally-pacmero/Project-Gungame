@@ -1,0 +1,13 @@
+[
+xmin 160
+ymin 40
+xmax 680
+ymax 260
+][
+font 977
+height 240
+letterspacing 1
+color #ffffff
+x 140
+y 220
+]Back
