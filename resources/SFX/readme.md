@@ -6,4 +6,4 @@
 |`/equipment`|Sounds produced by equipment|jetpack thrusters|
 |`/game`|Produced by game-mode events|flag captured, respawn|
 |`/ui`|Sounds that originate from UI interaction and events|menu & shop buttons, level up|
-|`/weapons`|Sounds produced by weapons.<br />The `/hit` subdirectory encompasses on hit sounds.|reload, pistol fire|
+|`/weapon`|Sounds produced by weapons.<br />The `/hit` subdirectory encompasses on hit sounds.|reload, pistol fire|
