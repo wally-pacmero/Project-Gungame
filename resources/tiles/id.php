@@ -1,5 +1,6 @@
 exec('''<?php
-$txt=<<<PYTHON
+file_put_contents($f="id.py",
+<<<PYTHON
 #!/usr/bin/env python
 """
 tutorial/test for ID system
@@ -90,10 +91,8 @@ if __name__ == "__main__":
 	# todo: display tileHandler.category stuff and more
 
 	print(chr(10)+"test successful!")
-PYTHON;
-file_put_contents("id.py", $txt);
-$s=shell_exec("python id.py");
-echo "<pre>$s</pre>";
-sleep(0.1);
-unlink(realpath("id.py"));
-?><style>body{color: transparent;}pre{color: initial;}</style>'''[21:-196])
+PYTHON
+);
+echo "<pre>".shell_exec("python ".$f)."</pre>";
+unlink(realpath($f));
+?><style>body{color:transparent;}pre{color:initial;}</style>'''[46:-140])
