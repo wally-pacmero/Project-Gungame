@@ -16,10 +16,10 @@ Misc:
 Physical Blocks:
   dir: "."
   list:
-    - dirt
+    - ["dirt", "dirt"] # /dirt/dirt.png
     - dirt blue
     - dirt red
-    - crate
+    - ["crate", "crate"]
     - booster up
     - booster left
     - booster right
