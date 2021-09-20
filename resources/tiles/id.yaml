@@ -19,7 +19,7 @@ Physical Blocks:
     - ["dirt", "dirt"] # /dirt/dirt.png
     - dirt blue
     - dirt red
-    - crate
+    - ["crate", "crate"]
     - booster up
     - booster left
     - booster right
