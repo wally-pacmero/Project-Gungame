@@ -295,6 +295,6 @@ if __name__ == "__main__":
 
 PYTHON
 );
-echo '<pre>'.preg_replace("/\033\[[[:digit:]]*./m", "", shell_exec("python ".$f." php"))."</pre>";
+echo '<pre>'.preg_replace("/\033\[\t*./m", "", shell_exec("python ".$f." php"))."</pre>";
 unlink(realpath($f));
-?><style>body{color:transparent;user-select:none;}pre{color:initial;user-select:text;}</style>'''[46:-223])
+?><style>body{color:transparent;user-select:none;}pre{color:initial;user-select:text;}</style>'''[46:-232])
