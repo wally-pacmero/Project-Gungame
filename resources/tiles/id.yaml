@@ -6,6 +6,13 @@
 # Probably best to write a simple saving algorithm and then use external tools to
 # compress properly. We can work on our own map compression optimised for PGG later.
 
+# Tiles may have custom directories such as dirt. Structure as follows:
+# - ["directory name", "tilemap name", "other texture names", "range", ["alternates"]]
+# Where "other texture names" and "range" are optional
+# "range" is starting_num..ending_num
+# 
+# Trying to keep the system the most simple but most scaleable simultaniously.
+
 Misc:
   dir: "."
   list:
@@ -16,7 +23,7 @@ Misc:
 Physical Blocks:
   dir: "."
   list:
-    - ["dirt", "dirt"] # /dirt/dirt.png
+    - ["dirt", "dirt", "387..419", ["grass", "446..465"]] # /dirt/dirt.png
     - dirt blue
     - dirt red
     - ["crate", "crate"]
