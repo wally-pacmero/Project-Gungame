@@ -30,7 +30,7 @@ Physical Blocks:
     - booster up
     - booster left
     - booster right
-    - dirt reinforced
+    - ["rein", "rein dirt", "rein core"]
 
 Scenery:
   dir: "decoration"
@@ -67,4 +67,4 @@ Objectives:
 Fluids:
   dir: "."
   list:
-    - water
+    - [water, water, water top]
