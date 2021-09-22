@@ -4,7 +4,7 @@ Damage: 15
 Description: Heals the wielder for 1hp per hit
 Destruction: 3
 ID: 12
-Name: Blook Sucker
+Name: Blood Sucker
 Operation: Auto
 Price: 900
 ROF: 462
