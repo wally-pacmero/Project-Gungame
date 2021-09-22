@@ -10,7 +10,7 @@ Price: 500
 ROF: 120
 Reload: 1.2
 Reward: 300
-Type: Rocket
+Type: Arrow
 Projectile: Arrow
 Velocity: 20
 Weight: 0.6
