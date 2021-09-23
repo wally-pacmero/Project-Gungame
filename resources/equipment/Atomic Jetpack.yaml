@@ -1,7 +1,7 @@
 ID: 4
 Name: Atomic Jetpack
 Price: 2000
-Thrust: 3
-Refuel: 1
+Thrust: 1
+Refuel: 2
 Capacity: 300
 Type: Jetpack

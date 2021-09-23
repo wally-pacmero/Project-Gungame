@@ -1,7 +1,7 @@
 ID: 2
-Name: Atomic Jetpack
+Name: Standard Jetpack
 Price: 200
 Thrust: 2
-Refuel: 1
+Refuel: 2
 Capacity: 100
 Type: Jetpack
