@@ -194,7 +194,7 @@ class tileHandler(resourceHandler):
 	""" singleton handler class for all tiles """
 	def __init__(self, raw: str, debug = False):
 		self.raw: str = raw
-		self.name_list: list = self.id_flatten() # Get name of tile by ID
+		self.name_list: list = self.load_by_name() # Get ID by name
 		self.category: dict = {}
 		self.tiles: dict = {}
 
@@ -234,7 +234,7 @@ class tileHandler(resourceHandler):
 		)
 
 
-	def id_flatten(self) -> Dict[int, str]:
+	def load_by_name(self) -> Dict[str, int]:
 		""" enumerates all ids from the top of the .yaml file """
 
 		# return [
@@ -242,13 +242,13 @@ class tileHandler(resourceHandler):
 		# 	if line[:5] == "    -"
 		# ]
 		
-		tiles = []
+		tiles = {}
 
-		for line in [line for line in self.raw.split(nl) if line[:5] == "    -"]:
+		for ID, line in enumerate([line for line in self.raw.split(nl) if line[:5] == "    -"]):
 			line = yaml.safe_load(line[5:])
-			tiles.append(
+			tiles[
 				line[1] if type(line) is list else line
-			)
+			] = ID
 
 		return tiles
 
@@ -346,7 +346,11 @@ def interactive(tileHandler: tileHandler, yaml_location, original, _inp: list=No
 
 		elif inp == "php": pass
 		else:
-			print("Unknown command: " + inp)
+			try:
+				print("ID of name of "+inp+" is "+str(tileHandler.name_list[inp.strip()]))
+				if arged or input("Type anything to show"): open_img(tileHandler.tiles[tileHandler.name_list[inp.strip()]])
+			except KeyError:
+				print("Unknown command: " + inp)
 
 		if not arged: user = [input(fg.M("> "))]
 
@@ -357,10 +361,10 @@ if __name__ == "__main__":
 
 	if pprint: print(
 		nl+"Flattened into: "+nl+
-		"{"+nl+
-		(","+nl).join(["  {}: \\"{}\\"".format(str(i), j)for
+		fg.Y("{")+nl+
+		(","+nl).join(['  {}: "{}"'.format(fg.B(str(i)), j) for
 			i,j in _tileHandler.tiles.items()])
-		+nl+"}"
+		+nl+fg.Y("}")
 	)
 
 	_tileHandler.report_all()
