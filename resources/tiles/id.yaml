@@ -16,7 +16,9 @@
 #      - Foo
 #      -      # Placeholder ID position
 #      - Bar
-# 
+#
+# TODO: Add block descriptions
+#
 # Trying to keep the system the most simple but most scaleable simultaneously.
 
 Misc:
@@ -37,8 +39,6 @@ Physical Blocks:
     - booster left
     - booster right
     - ["rein", "rein dirt", "rein core"]
-    -
-    -
 
 Scenery:
   dir: "decoration"
@@ -61,19 +61,13 @@ Scenery:
     - table left
     - table mid
     - table right
-    - stone pile # unknown order from here
-    - stone pile
-    - stump
-    - mushroom blue
     - mushroom blue large
+    - mushroom blue red
+    - mushroom blue
     - mushroom red
-    - mushroom red large
-    -
-    -
-    -
-    -
-    -
-    # todo
+    - stump
+    - stone pile
+    - stone
 
 Objectives:
   dir: "objectives"
@@ -83,11 +77,6 @@ Objectives:
     - respawn red
     - flag blue
     - flag red
-    -
-    -
-    -
-    -
-    -
 
 Fluids:
   dir: "fluids"
