@@ -2,19 +2,20 @@
 # Gamemode information
 #
 # Index entry in the root array is detected by
-# name.GetType() != typeof(string)
-# or we can do first entry
+# name.Equals("Index");
+# or we can do first entry in this document
 
 # Might have to hard code these IDs as constants in game
 
 - # INDEX
-  name:
-    modes:
+  name: Index
+  index:
+    modes: # Player interaction behaviour
       1: Teams
       2:
         - FFA
         - Free for all
-    money:
+    money: # Method of earning money
       1: Kills
       2: Capturing flag
       3: Defending flag

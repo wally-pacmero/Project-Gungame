@@ -10,8 +10,16 @@
 # - ["directory name", "tilemap name", "other texture names", "range", ["alternates"]]
 # Where "other texture names" and "range" are optional
 # "range" is starting_num..ending_num
-# 
-# Trying to keep the system the most simple but most scaleable simultaniously.
+#
+# Placeholders/Reserved can be denoted with just an empty list member
+#    list:
+#      - Foo
+#      -      # Placeholder ID position
+#      - Bar
+#
+# TODO: Add block descriptions
+#
+# Trying to keep the system the most simple but most scaleable simultaneously.
 
 Misc:
   dir: "."
@@ -21,7 +29,7 @@ Misc:
 # In order of the original tile selection menu.
 
 Physical Blocks:
-  dir: "."
+  dir: "blocks"
   list:
     - ["dirt", "dirt", "387..419", ["grass", "446..465"]] # /dirt/dirt.png
     - dirt blue
@@ -34,7 +42,7 @@ Physical Blocks:
 
 Scenery:
   dir: "decoration"
-  list:
+  list: # should be in order of popularity -> ease of access
     - tree large
     - tree
     - bush
@@ -53,10 +61,16 @@ Scenery:
     - table left
     - table mid
     - table right
-    # todo
+    - mushroom blue large
+    - mushroom blue red
+    - mushroom blue
+    - mushroom red
+    - stump
+    - stone pile
+    - stone
 
 Objectives:
-  dir: "."
+  dir: "objectives"
   list:
     - respawn neutral
     - respawn blue
@@ -65,6 +79,6 @@ Objectives:
     - flag red
 
 Fluids:
-  dir: "."
+  dir: "fluids"
   list:
-    - [water, water, water top]
+    - ["water", "water", "water top"]

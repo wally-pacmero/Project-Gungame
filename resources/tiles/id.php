@@ -143,11 +143,22 @@ class resourceHandler(dict):
 
 @dataclass
 class tile:
-	def __init__(self, id: int, name: str, category_path: str):
+	placeholder: str
+
+	def __init__(self, id: int, name: str, category_path: str, custom_path: str=""):
 		""" 'loads' image into memory """
 		self.id = id
-		self.name = name
-		self.path: str = category_path + "/" + name + ".png"
+		self.name = str(name) # The real game in Unity needs type checking, as it is evaluating abstract data types
+		self.custom_path = custom_path
+		self.category_path = category_path
+		# self.is_placeholder is set externally
+
+		if name != None: # will be None if it is a placeholder
+			self.path: str = "{}/{}/{}.png".format(category_path,custom_path,name)
+		else:
+			self.path: str = ""
+			self.name = "placeholder"
+
 		#super().__init__() # call the original __init__ of the @dataclass
 		try:
 			with open(self.path, "rb") as f:
@@ -176,10 +187,7 @@ class tileCategory(dict):
 		if list(data.keys()) != ["dir", "list"]: raise KeyError
 
 		self.dir: str = data["dir"]
-		self.list: list = [
-			i.strip() if type(i) == str else i for i in data["list"]
-		]
-		# self.list = [tile(ID, name, data["dir"]) for ID, name in self.list]
+		self.len: int = len(data["list"])
 
 		self.tiles: Dict[int, tile] = {}
 
@@ -207,7 +215,7 @@ class tileHandler(resourceHandler):
 		self.missing = []
 		for category, entry in self.data.items():
 			# length of all previous lists combined
-			offset = sum([i.list for i in list(self.category.values())], []).__len__()
+			offset = sum([i.len for i in list(self.category.values())])
 			try:
 				self.category[category] = tileCategory(offset, entry)
 			except KeyError:
@@ -217,16 +225,20 @@ class tileHandler(resourceHandler):
 				for ID, tile_name in enumerate(entry["list"]):
 					ID += offset
 
+					if type(tile_name) != list:
+						tile_name = ["", tile_name]
+
 					# Adds new tile object to both tileHandler.tiles and category tiles
 					self.tiles[ID] = \
 					self.category[category].tiles[ID] = \
-					\
-					tile(ID, tile_name[0], tile_name[1]) \
-					if type(tile_name) == list else \
-					tile(ID, tile_name, entry["dir"])
+					tile(ID, tile_name[1], entry["dir"], tile_name[0]) # \
+					# if type(tile_name) == list else \
+					# tile(ID, tile_name, entry["dir"])
 
 					if self.tiles[ID].image is None:
 						self.missing.append(self.tiles[ID].path)
+
+					self.tiles[ID].is_placeholder = tile_name[1] is None
 
 		if invalid_categories: exit(
 			"There are categories with invalid structures."+nl+
@@ -266,11 +278,14 @@ class tileHandler(resourceHandler):
 			self.p(fg.y(name))
 			self.p(" at dir: "+fg.B(cat.dir+"/"))
 
-			for tile in cat.list:
+			for ID, tile in cat.tiles.items():
 
-				loc = '"'+cat.dir+"/"
-				loc += tile if type(tile) is str else (tile[0]+"/"+tile[1])
-				loc += '.png"'
+				if tile.is_placeholder:
+					loc = "placeholder"
+				else:
+					loc = '"'+cat.dir+"/"
+					loc += (tile.custom_path+"/"+tile.name) if tile.custom_path else tile.name
+					loc += '.png"'
 
 				if not (path.isfile(loc.strip('"'))):
 					# raise FileNotFoundError(loc)
@@ -348,7 +363,8 @@ def interactive(tileHandler: tileHandler, yaml_location, original, _inp: list=No
 		else:
 			try:
 				print("ID of name of "+inp+" is "+str(tileHandler.name_list[inp.strip()]))
-				if arged or input("Type anything to show"): open_img(tileHandler.tiles[tileHandler.name_list[inp.strip()]])
+				if arged or input("Type anything to show"):
+					open_img(tileHandler.tiles[tileHandler.name_list[inp.strip()]])
 			except KeyError:
 				print("Unknown command: " + inp)
 
@@ -362,7 +378,7 @@ if __name__ == "__main__":
 	if pprint: print(
 		nl+"Flattened into: "+nl+
 		fg.Y("{")+nl+
-		(","+nl).join(['  {}: "{}"'.format(fg.B(str(i)), j) for
+		(","+nl).join(['  {}: {}"{}"'.format(fg.B(str(i)), (3-len(str(i)))*" ", j) for
 			i,j in _tileHandler.tiles.items()])
 		+nl+fg.Y("}")
 	)
