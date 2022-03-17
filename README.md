@@ -5,4 +5,4 @@
 
 [![Size](https://img.shields.io/github/repo-size/wally-pacmero/Project-Gungame)](/)
 
-This is the Project Gungame Remake GitHub repository
+This is the Project Gungame Remake GitHub repository.
