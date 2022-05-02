@@ -6,6 +6,8 @@
 # edit: &Edit Edit -> edit: &Edit Éditer
 # Do not touch the parts "edit:" and "&Edit" or any instances of "*Edit" anywhere else
 
+# Problably should imlement auto-wrapping so newlines (\n) aren't needed
+
 General:
   # Common phrases and buttons
   back: Back
@@ -14,19 +16,27 @@ General:
   edit: &Edit Edit
   join: Join
   login: Login
+  ok: Ok
   play: Play!
   refresh: Refresh
   save: Save
+  set: Set
+  signout: Sign Out
+
+  remember-tickbox: Remember me
+
 
 Tiles:
   # id: description
 
 
 Gameplay:
-  # text that appears during gameplay
-  # label: translation
-  gamemode-tut: Tutorial
+  # text that appears during gameplay / HUD
   
+  splash-killed: You killed {0}
+  slash-combo: x{0} COMBO
+
+  gamemode-tut: Tutorial
   gamemode-sandbox-title: Sandbox
   gamemode-sandbox-sub: Teams or FFA
   gamemode-sandbox-body: Just Mess about, do whatever you like :)
@@ -43,6 +53,10 @@ Gameplay:
   gamemode-survival-sub: *FFA
   gamemode-survival-body: Survive for as long as you can. When you die you must start again with nothing, and your killer gains half of your score. Team up with other players if you think you can trust them.
 
+  chat-textbox: Press enter to chat, enter to send
+
+  jukebox-textbox: Paste YouTube URL into chat to play!
+
 
 Menu:
   # text that are in menus
@@ -53,7 +67,12 @@ Menu:
   start-return-title: Returning players
   start-return-label-1: Username or Email
   start-return-label-2: &Password Password
-  start-return-label-3: Remember me
+
+  register-title: Register
+  register-username: Pick a username
+  register-email: Email address
+  register-pass-1: Choose password
+  register-pass-2: Verify password
 
   main-warning: "You playing as a guest! When you leave the game\nyour progress be lost. Click here to get an account and save!"
 
@@ -114,6 +133,72 @@ Menu:
   settings-lvl-edit-lighting: Change lighting
   settings-lvl-edit-save: Save
 
+  customise: Customize champion
+  customise-head: Head
+  customise-body: Body
+  customise-legs: Legs
+  customise-col: Color
+  customise-intens: Intensity
+  customise-bright: Brightness
+
+
+  clan-position-1: Founder
+  clan-position-2: High Command
+  clan-position-3: Members
+
+  clan-table-1: "" # Name
+  clan-table-2: XP Share # XP Contribution %
+  clan-table-3: Total # XP Donated
+  clan-table-4: "" # Demote
+  clan-table-5: "" # Promote
+
+  clan-xp-title: &SetXP Set XP contribution
+  clan-xp-body: Choose how much of the XP you earn will be donated to the clan.\nYou\'ll always still earn the full amount of gold.
+  clan-xp-saved: Contribution saved!
+  clan-status-title: &SetStat Set Status
+  clan-status-body: Update your clan\'s status.\nThis is visible only to clan members.
+  clan-status-saved: Status saved!
+  clan-leave-title: Leave Clan
+  clan-leave-body: You are about to leave this clan.\nOnce you have left you will not be able to rejoin without a new invite.\n\nTo confirm, type \"leave\" into the box below and press Leave.
+  clan-leave-btn: Leave
+  clan-desc-title: Set Description
+  clan-desc-body: Describe your clan, what you\'re about, and what you stand for.\nThis is public and visible to non-members.
+  clan-desc-saved: Description saved!
+  clan-invite-title: Invite to Join
+  clan-invite-body: Enter a players name here to invite them to join your clan.
+  clan-invite-btn: Send Invite
+
+  clan-applications-msg: No applications
+  clan-applications-footer: Accepting an application will send a join invitation to that player
+
+  # clan message walls probably superseded by teamspeak/discord
+  clan-msg-msg: Leave a message on the clan wall by typing it here!
+  clan-msg-post: Post
+
+  clan-aside-01: "Level: {0}"
+  clan-aside-02: "XP: {0}"
+  clan-aside-03: "Rank: {0}"
+  clan-aside-04: View news feed
+  clan-aside-05: View front page
+  clan-aside-06: *SetXP
+  clan-aside-07: Review applications
+  clan-aside-08: Invite new members
+  clan-aside-09: View members
+  clan-aside-10: Set clan description
+  clan-aside-11: *SetStat
+  clan-aside-12: Leave clan
+
+  clan-req-title: Request Invite
+  clan-req-label: "Write a few words about why you would like to join:"
+
+  clan-found-title: Found A Clan
+  clan-found-aside-body: It is a great honor to create a \nclan. You will be responsible \nfor all of your members and \ntheir time in your clan.\n\nYou can promote members to \nHigh Command status, which \ngives them the ability to make \nchanges to the clan and \naccept new members or kick \nother members who are \nbeneath them.\n\nTo proceed, enter your \ndesired Clan Name, Clan Tag, \nand your logo.\nCreating a clan costs\n      1000
+  clan-found-btn: Create Clan
+  clan-right-body: Create an emblem to represent your clan.\n\nMore layers will become\navailable as your clan levels\nup.
+  clan-label-name: Enter clan name
+  clan-label-tag: Enter clan tag
+
+
   join-title: Join Game
   join-label: Click a column title to sort by that column
   join-full: Hide Full
@@ -153,6 +238,15 @@ Notif: # Or Pop-ups
 
   warn-register-title: Must Register
   warn-register-body: You must first register an account!
+
+  pop-password-title: Password Required # When joining room which requires password
+  pop-password-label: This room requires a password
+
+  notif-waiting: Waiting for players
+  notif-start: The game will start when there are {0} or more\nplayers in the room
+
+  error-host-disconnect: The host has disconnected!
+
 
 Tutorial:
   tut-welcome: Welcome to Gun Game!\nRead these signs to learn how to play!\nYou'll be in a multiplayer game in no time.\n Press WASD to move around...
