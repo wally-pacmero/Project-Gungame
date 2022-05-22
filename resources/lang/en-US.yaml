@@ -26,6 +26,7 @@ General:
   save: Save
   set: Set
   signout: Sign Out
+  start: Start
 
   remember-tickbox: Remember me
 
@@ -147,7 +148,7 @@ Equipment:
 
 Gameplay:
   # text that appears during gameplay / HUD
-  
+
   xp-lim: Daily limit reached
   xp-lim-time: More in {0}h{1}m
 
@@ -181,6 +182,8 @@ Gameplay:
   gamemode-earn-kills: *Kills
   gamemode-earn-cap: Capturing flag
   gamemode-earn-def: Defending flag
+  gamemode-reset: Reset players inventory and money when round ends
+  gamemode-starting: Starting money
 
   gamemode-tut: Tutorial
   gamemode-sandbox-title: Sandbox
@@ -407,6 +410,8 @@ Notif: # Or Pop-ups
 
   pop-password-title: Password Required # When joining room which requires password
   pop-password-label: This room requires a password
+  pop-starting: Game starting...
+  pop-wins: wins!
 
   notif-waiting: Waiting for players
   notif-start: The game will start when there are {0} or more\nplayers in the room
