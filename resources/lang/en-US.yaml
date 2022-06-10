@@ -1,4 +1,4 @@
----
+﻿---
 # en-US !! @todo UNFINISHED
 # Translator notes: Don't touch anything connected to & and *
 # They are anchors and aliases, just translate the first one and the rest will be loaded
@@ -236,7 +236,7 @@ Menu:
   register-pass-1: Choose password
   register-pass-2: Verify password
 
-  main-warning: "You playing as a guest! When you leave the game\nyour progress be lost. Click here to get an account and save!"
+  main-warning: "You are currently playing as a guest! When you leave the game\nyour progress be lost. Click here to get an account and save!"
 
   main-user-level: Level {0}
   main-graph-label: Players online in last 48 hours
