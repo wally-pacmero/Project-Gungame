@@ -1,12 +1,12 @@
----
+﻿---
 # en-US !! @todo UNFINISHED
-# Translater notes: Don't touch anything connected to & and *
+# Translator notes: Don't touch anything connected to & and *
 # They are anchors and aliases, just translate the first one and the rest will be loaded
 #
 # edit: &Edit Edit -> edit: &Edit Éditer
 # Do not touch the parts "edit:" and "&Edit" or any instances of "*Edit" anywhere else
 
-# Problably should imlement auto-wrapping so newlines (\n) aren't needed
+# Probably should implement auto-wrapping so newlines (\n) aren't needed
 
 General:
   # Common phrases and buttons
@@ -26,6 +26,7 @@ General:
   save: Save
   set: Set
   signout: Sign Out
+  start: Start
 
   remember-tickbox: Remember me
 
@@ -36,6 +37,51 @@ Tiles:
   category-scenery: Scenery
   category-objectives: Objectives
   category-fluids: Fluids
+
+  air: Air
+  blocks-dirt: Standard ground block. Can be damaged and destroyed by most weapons
+  blocks-gate-blue: Blue gate. Indestructible, and only players on blue team can pass through these
+  blocks-gate-red: Red gate. Indestructible, and only players on red team can pass through these
+  blocks-crate: Crate. Indestructible.
+  blocks-booster-up: Upwards booster. Accelerates players upwards
+  blocks-booster-left: Left booster. Accelerates players to the left
+  blocks-booster-right: Right booster. Accelerates players to the right
+  blocks-indestructible: Indestructible ground. No weapons or players can pass through these
+  
+  decor-tree large: Large tree, 3x3 blocks
+  decor-tree: Medium tree, 2x2 blocks
+  decor-bush: Small shrub
+  decor-grass: Low grass
+  decor-mushroom large: Large toadstool
+  decor-mushroom: Small toadstool
+  decor-flower: Flower
+  decor-ladder: Ladder
+  decor-fence left: Fence post left
+  decor-fence mid: Fence post middle
+  decor-fence right: Fence post right
+  decor-sign: Signpost, once it\'s placed
+  decor-grass large: Tall grass
+  decor-chair left: Chair facing right
+  decor-chair right: Chair facing left
+  decor-table left: Table left side
+  decor-table mid: Table middle
+  decor-table right: Table right side
+  decor-mushroom blue large: Large blue toadstools
+  decor-mushroom red large: Large red toadstools
+  decor-mushroom blue: Small blue toadstools
+  decor-mushroom red: Small red toadstools
+  decor-stump: Tree stump
+  decor-stone pile: Large rock pile
+  decor-stone: Small rock pile
+
+  spawn-respawn neutral: Free for all spawn. Players not on any team use these to spawn
+  spawn-respawn blue: Blue team spawn point
+  spawn-respawn red: Red team spawn point
+
+  flags-flag blue: Blue teams flag. This should be placed in the blue team base
+  flags-flag red: Red teams flag. This should be placed in the red team base
+
+  medium: Water. Will slow you down a lot, but you can still fire weapons underwater
 
 
 Weapons:
@@ -61,6 +107,12 @@ Weapons:
   title-reward: Kill reward ($)
   title-description: Description
   title-notes: Notes
+
+  # Weapon IDs?
+  # Flak Cannon
+  description-11: Ricochets off obstacles
+  # Blood Sucker
+  description-12: Heals the wielder for 1hp per hit
 
 
 Equipment:
@@ -96,7 +148,7 @@ Equipment:
 
 Gameplay:
   # text that appears during gameplay / HUD
-  
+
   xp-lim: Daily limit reached
   xp-lim-time: More in {0}h{1}m
 
@@ -130,6 +182,8 @@ Gameplay:
   gamemode-earn-kills: *Kills
   gamemode-earn-cap: Capturing flag
   gamemode-earn-def: Defending flag
+  gamemode-reset: Reset players inventory and money when round ends
+  gamemode-starting: Starting money
 
   gamemode-tut: Tutorial
   gamemode-sandbox-title: Sandbox
@@ -182,7 +236,7 @@ Menu:
   register-pass-1: Choose password
   register-pass-2: Verify password
 
-  main-warning: "You playing as a guest! When you leave the game\nyour progress be lost. Click here to get an account and save!"
+  main-warning: "You are currently playing as a guest! When you leave the game\nyour progress be lost. Click here to get an account and save!"
 
   main-user-level: Level {0}
   main-graph-label: Players online in last 48 hours
@@ -209,7 +263,7 @@ Menu:
   settings-particle-lvl-body: This will have a large effect on\nyour performance
 
   settings-particle-bg: Background particles
-  settings-particle-bg-body: Disabling this will improve youur performance slightly
+  settings-particle-bg-body: Disabling this will improve your performance slightly
 
   settings-gore: Gore
   settings-gore-body: Show/Hide blood effects
@@ -220,7 +274,7 @@ Menu:
   settings-amb-vol: Ambient music volume
   settings-amb-vol-body: Volume for the background music\n(not the jukebox)
 
-  sttings-panning: Panning Background # why is this capitalized??
+  settings-panning: Panning Background # why is this capitalized??
   settings-panning-body: Disabling this will improve your\nperformace slightly
 
   settings-ctrl: Redefine Controls
@@ -330,7 +384,7 @@ Menu:
 
   create-title: Create game
   create-name: Room name
-  create-name-default: {0}\'s game
+  create-name-default: "{0}'s game"
   create-max: Max players
   create-password: *Password
   create-level: Level
@@ -356,6 +410,8 @@ Notif: # Or Pop-ups
 
   pop-password-title: Password Required # When joining room which requires password
   pop-password-label: This room requires a password
+  pop-starting: Game starting...
+  pop-wins: wins!
 
   notif-waiting: Waiting for players
   notif-start: The game will start when there are {0} or more\nplayers in the room
