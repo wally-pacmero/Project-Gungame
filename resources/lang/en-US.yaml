@@ -1,24 +1,19 @@
-﻿---
+---
 # en-US !! @todo UNFINISHED
-# Translator notes: Don't touch anything connected to & and *
-# They are anchors and aliases, just translate the first one and the rest will be loaded
-#
-# edit: &Edit Edit -> edit: &Edit Éditer
-# Do not touch the parts "edit:" and "&Edit" or any instances of "*Edit" anywhere else
 
 # Probably should implement auto-wrapping so newlines (\n) aren't needed
 
 General:
   # Common phrases and buttons
-  accept: &Accept Accept
+  accept: Accept
   back: Back
   cancel: Cancel
   create: Create
-  decline: &Decline Decline
-  edit: &Edit Edit
-  info: &Info Info
+  decline: Decline
+  edit: Edit
+  info: Info
   join: Join
-  kills: &Kills Kills
+  kills: Kills
   login: Login
   ok: Ok
   play: Play!
@@ -85,8 +80,8 @@ Tiles:
 
 
 Weapons:
-  title-name: &Name Name
-  title-type: &Type Type
+  title-name: Name
+  title-type: Type
   type-auto: Automatic Rifle
   type-beam: Beam
   type-pistol: Pistol
@@ -116,20 +111,20 @@ Weapons:
 
 
 Equipment:
-  title-name: *Name
-  title-type: *Type
+  title-name: Name
+  title-type: Type
   type-jetpack: Jetpack
   type-boots: Boots
   title-price: Price ($) # cost and price???
   title-thrust: Thrust
   thrust-high: High
-  thrust-med: &Medium Medium
+  thrust-med: Medium
   thrust-low: Low # Unused
   thrust-very-low: Very Low
   title-capacity: Capacity
   title-refuel: Refuel rate
   refuel-fast: Fast # Fast
-  refuel-med: *Medium
+  refuel-med: Medium
   refuel-slow: Slow
   power: Power
   power-speed: "Speed: {0}"
@@ -179,7 +174,7 @@ Gameplay:
   gamemode-objv-time: "Time: {0}"
   gamemode-objv-inf: Continuous game
   gamemode-earn: "Get money for:"
-  gamemode-earn-kills: *Kills
+  gamemode-earn-kills: Kills
   gamemode-earn-cap: Capturing flag
   gamemode-earn-def: Defending flag
   gamemode-reset: Reset players inventory and money when round ends
@@ -190,16 +185,16 @@ Gameplay:
   gamemode-sandbox-sub: Teams or FFA
   gamemode-sandbox-body: Just Mess about, do whatever you like :)
   gamemode-deathmatch-title: Deathmatch
-  gamemode-deathmatch-sub: &FFA Free for all
+  gamemode-deathmatch-sub: Free for all
   gamemode-deathmatch-body: Straight up deathmatch. If it moves, kill it.
   gamemode-TDM-title: Team Deathmatch
-  gamemode-TDM-sub: &Teams Teams
+  gamemode-TDM-sub: Teams
   gamemode-TDM-body: Classic team deathmatch. The team with the most kills when the time runs out is the winner.
   gamemode-CTF-title: Capture the Flag
-  gamemode-CTF-sub: *Teams
+  gamemode-CTF-sub: Teams
   gamemode-CTF-body: Get to the enemy base, grab their flag, and bring it home. You must have both flags to score a point.
   gamemode-survival-title: Survival
-  gamemode-survival-sub: *FFA
+  gamemode-survival-sub: Free for all
   gamemode-survival-body: Survive for as long as you can. When you die you must start again with nothing, and your killer gains half of your score. Team up with other players if you think you can trust them.
 
   chat-title: Chat
@@ -210,7 +205,7 @@ Gameplay:
 
   scoreboard-title: Scores
   scoreboard-table-1: Level
-  scoreboard-table-2: *Kills
+  scoreboard-table-2: Kills
   scoreboard-table-3: Deaths
   scoreboard-table-4: Ping
 
@@ -228,7 +223,7 @@ Menu:
 
   start-return-title: Returning players
   start-return-label-1: Username or Email
-  start-return-label-2: &Password Password
+  start-return-label-2: Password
 
   register-title: Register
   register-username: Pick a username
@@ -240,7 +235,7 @@ Menu:
 
   main-user-level: Level {0}
   main-graph-label: Players online in last 48 hours
-  
+
   main-lead-label: Top Survival Scores (week)
 
   main-title: Main Menu
@@ -284,7 +279,7 @@ Menu:
   settings-ctrl-right: Right
   settings-ctrl-reload: Reload
   settings-ctrl-wpn: Change weapon
-  settings-ctrl-edit: *Edit
+  settings-ctrl-edit: Edit
   settings-ctrl-shop: Shop
   settings-ctrl-chat: Chat
   settings-ctrl-scoreboard: Scoreboard
@@ -309,9 +304,9 @@ Menu:
   clans-top: Top Clans
   clans-invites-title: Clan Invites
   clans-invites-body: You have no invites
-  clans-invites-info: *Info
-  clans-invites-decline: *Decline
-  class-invites-accept: *Accept
+  clans-invites-info: Info
+  clans-invites-decline: Decline
+  class-invites-accept: Accept
 
   clan-position-1: Founder
   clan-position-2: High Command
@@ -323,10 +318,10 @@ Menu:
   clan-table-4: "" # Demote
   clan-table-5: "" # Promote
 
-  clan-xp-title: &SetXP Set XP contribution
+  clan-xp-title: Set XP contribution
   clan-xp-body: Choose how much of the XP you earn will be donated to the clan.\nYou\'ll always still earn the full amount of gold.
   clan-xp-saved: Contribution saved!
-  clan-status-title: &SetStat Set Status
+  clan-status-title: Set Status
   clan-status-body: Update your clan\'s status.\nThis is visible only to clan members.
   clan-status-saved: Status saved!
   clan-leave-title: Leave Clan
@@ -351,12 +346,12 @@ Menu:
   clan-aside-03: "Rank: {0}"
   clan-aside-04: View news feed
   clan-aside-05: View front page
-  clan-aside-06: *SetXP
+  clan-aside-06: Set XP contribution
   clan-aside-07: Review applications
   clan-aside-08: Invite new members
   clan-aside-09: View members
   clan-aside-10: Set clan description
-  clan-aside-11: *SetStat
+  clan-aside-11: Set Status
   clan-aside-12: Leave clan
 
   clan-req-title: Request Invite
@@ -378,7 +373,7 @@ Menu:
   join-table-2: Players
   join-table-3: Pass
   join-table-4: PVP
-  join-table-5: *Edit
+  join-table-5: Edit
   join-table-6: Distance
   join-table-7: Ping
 
@@ -386,7 +381,7 @@ Menu:
   create-name: Room name
   create-name-default: "{0}'s game"
   create-max: Max players
-  create-password: *Password
+  create-password: Password
   create-level: Level
   create-btn-load: Load Level
   create-footer: "Remember: you can type /changelevel in game"
