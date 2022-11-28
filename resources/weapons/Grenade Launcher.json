@@ -1,0 +1,17 @@
+{
+    Accuracy: 3,
+    Capacity: 5,
+    Damage: "50+50 AoE",
+    Description: "",
+    Destruction: 0,
+    ID: 18,
+    Name: "Grenade Launcher",
+    Operation: "Auto",
+    Price: 1500,
+    ROF: 75,
+    Reload: 3.0,
+    Reward: 75,
+    Type: "Grenade",
+    Velocity: 17,
+    Weight: 2.05,
+}

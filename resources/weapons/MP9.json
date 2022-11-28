@@ -1,0 +1,17 @@
+{
+    Accuracy: 30,
+    Capacity: 15,
+    Damage: 10,
+    Description: "",
+    Destruction: 3,
+    ID: 2,
+    Name: "MP9",
+    Operation: "Auto",
+    Price: 300,
+    ROF: 1200,
+    Reload: 1.3,
+    Reward: 150,
+    Type: "Pistol",
+    Velocity: 40,
+    Weight: 0.4,
+}

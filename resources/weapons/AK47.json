@@ -1,0 +1,17 @@
+{
+    Accuracy: 2,
+    Capacity: 30,
+    Damage: 15,
+    Description: "",
+    Destruction: 7,
+    ID: 20,
+    Name: "AK47",
+    Operation: "Auto",
+    Price: 2500,
+    ROF: 706,
+    Reload: 2.5,
+    Reward: 50,
+    Type: "Automatic Rifle",
+    Velocity: 45,
+    Weight: 2.4,
+}

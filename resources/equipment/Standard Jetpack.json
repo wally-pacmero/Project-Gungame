@@ -1,0 +1,9 @@
+{
+    ID: 2,
+    Name: "Standard Jetpack",
+    Price: 200,
+    Thrust: 2,
+    Refuel: 2,
+    Capacity: 100,
+    Type: "Jetpack",
+}

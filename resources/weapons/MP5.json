@@ -1,0 +1,17 @@
+{
+    Accuracy: 15,
+    Capacity: 26,
+    Damage: 15,
+    Description: "",
+    Destruction: 5,
+    ID: 8,
+    Name: "MP5",
+    Operation: "Auto",
+    Price: 600,
+    ROF: 667,
+    Reload: 1.5,
+    Reward: 75,
+    Type: "Automatic Rifle",
+    Velocity: 40,
+    Weight: 1,
+}
