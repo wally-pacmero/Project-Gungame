@@ -1,0 +1,17 @@
+{
+    Accuracy: 15,
+    Capacity: 5,
+    Damage: 13,
+    Description: "",
+    Destruction: 4,
+    ID: 13,
+    Name: "XM1014",
+    Operation: "Semi",
+    Price: 950,
+    ROF: 75,
+    Reload: 1.5,
+    Reward: 75,
+    Type: "Shotgun",
+    Velocity: 40,
+    Weight: 1.7,
+}

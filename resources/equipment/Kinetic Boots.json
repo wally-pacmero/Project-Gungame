@@ -1,0 +1,9 @@
+{
+    ID: 2,
+    Name: "Kinetic Boots",
+    Price: 600,
+    Speed: 1.1,
+    Jump: 1.5,
+    Fall: 1,
+    Type: "Jetpack",
+}

@@ -1,0 +1,9 @@
+{
+    ID: 4,
+    Name: "Atomic Jetpack",
+    Price: 2000,
+    Thrust: 1,
+    Refuel: 2,
+    Capacity: 300,
+    Type: "Jetpack",
+}

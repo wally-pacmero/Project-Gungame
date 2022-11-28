@@ -1,0 +1,18 @@
+{
+    Accuracy: 1,
+    Capacity: 1,
+    Damage: 60,
+    Description: "",
+    Destruction: 10,
+    ID: 6,
+    Name: "Crossbow",
+    Operation: "Semi",
+    Price: 500,
+    ROF: 120,
+    Reload: 1.2,
+    Reward: 300,
+    Type: "Arrow",
+    Projectile: "Arrow",
+    Velocity: 20,
+    Weight: 0.6,
+}

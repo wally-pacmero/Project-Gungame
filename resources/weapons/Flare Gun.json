@@ -1,0 +1,17 @@
+{
+    Accuracy: 3,
+    Capacity: Infinity,
+    Damage: 50,
+    Description: "",
+    Destruction: 5,
+    ID: 7,
+    Name: "Flair Gun",
+    Operation: "Semi",
+    Price: 600,
+    ROF: 30,
+    Reload: 2.0,
+    Reward: 300,
+    Type: "Pistol",
+    Velocity: 22,
+    Weight: 0.8,
+}

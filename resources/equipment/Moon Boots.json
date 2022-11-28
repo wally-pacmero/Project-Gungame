@@ -1,0 +1,9 @@
+{
+    ID: 3,
+    Name: "Moon Boots",
+    Price: 600,
+    Speed: 1.15,
+    Jump: 1.0,
+    Fall: 0.2,
+    Type: "Jetpack",
+}
